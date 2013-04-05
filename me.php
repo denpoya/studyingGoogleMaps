@@ -1,4 +1,5 @@
 <?php
+// denn
 function nobody()
 {
     $js = <<<EOF
