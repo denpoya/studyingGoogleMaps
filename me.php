@@ -1,5 +1,5 @@
 <?php
-// denn 2013-04-06
+// denn 2013-04-06 16:05
 function nobody()
 {
     $js = <<<EOF
